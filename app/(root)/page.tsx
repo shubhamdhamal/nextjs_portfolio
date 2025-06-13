@@ -21,7 +21,7 @@ import namanImg from "@/public/naman-img.jpg";
 
 export const metadata: Metadata = {
   title: `${pagesConfig.home.metadata.title} | Modern Next.js Developer Portfolio Template`,
-  description: `${pagesConfig.home.metadata.description} This open-source Next.js portfolio template is customizable to showcase your skills and projects.`,
+  description: `${pagesConfig.home.metadata.description} Cybersecurity enthusiast focused on web security, threat analysis, and ethical hacking.`,
   alternates: {
     canonical: siteConfig.url,
   },
